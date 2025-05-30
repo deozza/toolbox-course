@@ -2,8 +2,6 @@
 
 ## Sommaire<!-- omit in toc -->
 
-- [Connaître son ordinateur](#connaître-son-ordinateur)
-  - [Les raccourcis claviers](#les-raccourcis-claviers)
 - [Les logiciels indispensables](#les-logiciels-indispensables)
   - [Editeurs de texte](#editeurs-de-texte)
     - [IDE](#ide)
@@ -14,21 +12,6 @@
     - [Les extensions](#les-extensions)
     - [Les outils online](#les-outils-online)
   - [Client API](#client-api)
-- [Le terminal](#le-terminal)
-- [TUI vs GUI](#tui-vs-gui)
-  - [Editeurs pour terminal](#editeurs-pour-terminal)
-    - [Editeurs légers](#editeurs-légers)
-    - ["IDE"](#ide-1)
-  - [Explorateur de fichiers](#explorateur-de-fichiers)
-  - [git](#git)
-  - [Docker via le terminal](#docker-via-le-terminal)
-  - ["Navigateur"](#navigateur-1)
-  - [Requêtes API dans un terminal](#requêtes-api-dans-un-terminal)
-  - [Base de données](#base-de-données)
-
-## Connaître son ordinateur
-
-### Les raccourcis claviers
 
 ## Les logiciels indispensables
 
@@ -107,43 +90,6 @@
 
 ### Client API
 
-## Le terminal
+- postman
+- insomnia
 
-## TUI vs GUI
-
-### Editeurs pour terminal
-
-#### Editeurs légers
-
-- nano
-- micro
-
-#### "IDE"
-
-- nvim
-- helix
-
-### Explorateur de fichiers
-
-- nnn
-- fzf
-
-### git
-
-- gh
-- gitui
-- lazygit
-
-### Docker via le terminal
-
-- lazydocker
-
-### "Navigateur"
-
-- s
-
-### Requêtes API dans un terminal
-
-### Base de données
-
-- usql

@@ -8,11 +8,17 @@
 
 ## Différences entre Linux et Windows
 
+- linux : système UNIX, adapté pour les outils de développement, interface plus brute pour permettre une meilleure manipulation des processus
+- windows : système MS-DOS, adapté pour la bureautique, abstraction des processus pour faciliter l'utilisation
+
 ## Intérêts
 
-|     | Dual boot | Machine virtuelle | WSL |
-| --- | --------- | ----------------- | --- |
-|     |           |                   |     |
+|                                                      | Dual boot                             | Machine virtuelle     | WSL                 |
+|------------------------------------------------------|---------------------------------------|-----------------------|---------------------|
+| Installation                                         | Facile                                | Complexe              | Facile              |
+| Utilisation des ressources                           | Dynamique (sauf pour l'espace disque) | Fixe                  | Dynamique           |
+| Passage ordinateur principal - ordinateur secondaire | Demande un redémarrage                | Changement de fenêtre | Intégré dans l'hôte |
+| Fonctionnalités                                      | Ordinateur complet                    | Ordinateur complet    | Uniquement terminal |
 
 ## Installation
 
